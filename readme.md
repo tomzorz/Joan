@@ -1,6 +1,6 @@
 # Joan
 
-A dumb automatic codebreaking tool.
+A dumb automatic code breaking tool.
 
 ## Why?
 
