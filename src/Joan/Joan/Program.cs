@@ -78,7 +78,25 @@ namespace Joan
                 new HexAscii(),
                 new MitnickBase36(),
                 new MitnickMorse(),
-                new Morse()
+                new Morse(),
+                new Vigenere("autopatch"),
+                new Vigenere("jelly"),
+                new Vigenere("oroville"),
+                new Vigenere("billcook"),
+                new Vigenere("firmware"),
+                new Vigenere("calabasas"),
+                new Vigenere("teltec"),
+                new Vigenere("optoelectronics"),
+                new Vigenere("oakwood"),
+                new Vigenere("alphadent"),
+                new Vigenere("klingon"),
+                new Vigenere("boombox"),
+                new Vigenere("ensburgell"),
+                new Vigenere("tatteredcover"),
+                new Vigenere("snowbird"),
+                new Vigenere("gtetelenet"),
+                new Vigenere("robertmorris"),
+                new Vigenere("playersclub")
             };
 
             Console.Write("Enter language: ");
