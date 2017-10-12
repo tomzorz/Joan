@@ -8,11 +8,7 @@ I was too lazy to break all the chapter subtitle codes by hand in "Ghost in the 
 
 ## To-Do
 
-### to break all the codes in the book
-
-1. implement vigenere cypher (preset words + bruteforce?)
-2. find solution for weird 2B 2T W... text
-2. find solution for weird 100-11... text, probably morse code?
+(Done with the book.)
 
 ### further improvements
 
