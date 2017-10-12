@@ -8,8 +8,8 @@ namespace Joan.Cyphers
 {
     public class MitnickBase36 : ICypher
     {
-        private Dictionary<char, int> _valueMap = new Dictionary<char, int>();
-        private StringBuilder _sb;
+        private readonly Dictionary<char, int> _valueMap = new Dictionary<char, int>();
+        private readonly StringBuilder _sb;
 
         public MitnickBase36()
         {

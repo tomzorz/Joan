@@ -76,7 +76,9 @@ namespace Joan
                 new DecimalAscii(),
                 new OctalAscii(),
                 new HexAscii(),
-                new MitnickBase36()
+                new MitnickBase36(),
+                new MitnickMorse(),
+                new Morse()
             };
 
             Console.Write("Enter language: ");
